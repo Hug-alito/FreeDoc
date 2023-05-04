@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  specialty1: MyString
+  specialty2: MyString
+
+two:
+  specialty1: MyString
+  specialty2: MyString
